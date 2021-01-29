@@ -44,4 +44,7 @@ function exec_mysql {
 	
 }
 
+set -e
+trap tear_down EXIT
+
 main
