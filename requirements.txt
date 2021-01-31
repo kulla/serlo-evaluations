@@ -4,4 +4,5 @@ requests >=2.0,<3.0
 matplotlib >= 3.0.0,<4.0
 colormap >= 1.0,<2.0
 easydev
+hsluv
 mysql-connector-python
