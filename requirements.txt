@@ -6,4 +6,5 @@ colormap >= 1.0,<2.0
 easydev
 hsluv
 bottleneck
+plotly
 mysql-connector-python
