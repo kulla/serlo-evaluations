@@ -7,4 +7,5 @@ easydev
 hsluv
 bottleneck
 plotly
+Cython
 mysql-connector-python
