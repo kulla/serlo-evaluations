@@ -1,5 +1,4 @@
-# json-File with serlo pageviews
-de.serlo.org.json
+data/private
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
